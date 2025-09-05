@@ -30,8 +30,8 @@ Before you begin, make sure you have the following installed:
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/Askme007/AI-Attendance-System.git
-   cd AI-Attendance-System
+   git clone https://github.com/Askme007/AI_Attendance_System.git
+   cd AI_Attendance_System
    ```
 
 2. **Create a Virtual Environment**
